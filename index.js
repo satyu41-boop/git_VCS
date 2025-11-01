@@ -8,6 +8,3 @@ function sayName() {
     console.log(`My name is ${name1}`);
 }
 
-function newFun(){
-    console.log("This is a new function");
-}
