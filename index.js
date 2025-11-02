@@ -17,3 +17,8 @@ function isAbove18() {
 function newFeatureAddedFn(){
     console.log("New Feature Added in my Satyam_Feature Branch");
 }
+
+
+function anotherNewFeatureFn(){
+    console.log("Another Feature Added in my Satyam_work2 Branch");
+}
